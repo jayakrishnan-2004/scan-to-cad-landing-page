@@ -63,7 +63,7 @@ export default function Hero() {
       
       <div>
         <img
-          src="/hero2.png"
+          src="/hero.jpg"
           alt="Engineering"
           className="rounded-[30px] shadow-2xl w-full object-cover"
         />
